@@ -15,10 +15,10 @@ $(function() {
         var scroll = $(window).scrollTop();
         if (scroll < 20) {
             $(".navbar-area").removeClass("sticky");
-            $(".navbar-area img").attr("src", "assets/images/logo.svg");
+            $(".navbar-area img").attr("src", "https://1.bp.blogspot.com/-Px5y8mHIDVY/YEX-L6vxVcI/AAAAAAAAAIA/Z14bJuXXpSciOl_Ux4dyJOf-a1tQABrAgCPcBGAsYHg/s0/insnesia-com.webp");
         } else {
             $(".navbar-area").addClass("sticky");
-            $(".navbar-area img").attr("src", "assets/images/logo-2.svg");
+            $(".navbar-area img").attr("src", "https://1.bp.blogspot.com/-m6l8M2G1Jm4/YEYBbp-J5xI/AAAAAAAAAIU/q2RhorIaVwEBMyZBu-p9YsX4vzUUEVhHACPcBGAsYHg/s0/insnesia-logo-black.png");
         }
     });
 
