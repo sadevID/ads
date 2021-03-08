@@ -15,10 +15,10 @@ $(function() {
         var scroll = $(window).scrollTop();
         if (scroll < 20) {
             $(".navbar-area").removeClass("sticky");
-            $(".navbar-area img").attr("src", "https://1.bp.blogspot.com/-Px5y8mHIDVY/YEX-L6vxVcI/AAAAAAAAAIA/Z14bJuXXpSciOl_Ux4dyJOf-a1tQABrAgCPcBGAsYHg/s0/insnesia-com.webp");
+            $(".navbar-area img").attr("src", "https://1.bp.blogspot.com/-kp7V655Hr_w/YEYYW5GuhHI/AAAAAAAAAIo/Y9XKT-qJdyIZdY7w4uzBeca7bqyf5m-SACNcBGAsYHQ/s0/Adsnesiacom.webp");
         } else {
             $(".navbar-area").addClass("sticky");
-            $(".navbar-area img").attr("src", "https://1.bp.blogspot.com/-m6l8M2G1Jm4/YEYBbp-J5xI/AAAAAAAAAIU/q2RhorIaVwEBMyZBu-p9YsX4vzUUEVhHACPcBGAsYHg/s0/insnesia-logo-black.png");
+            $(".navbar-area img").attr("src", "https://1.bp.blogspot.com/-sKaiWxr-VTg/YEYYW9A0GTI/AAAAAAAAAIs/sSWj9ejsz1g2k3x9Wh82eLpnzBXAKsaLwCNcBGAsYHQ/s0/Adsnesiacom-Blue.webp");
         }
     });
 
